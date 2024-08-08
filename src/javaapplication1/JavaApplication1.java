@@ -20,7 +20,7 @@ public class JavaApplication1 {
     public static void main(String[] args) {
         // TODO code application logic here
         // Datos de ejemplo
-        String placa = "EBB1233";
+        String placa = "EBB1231";
         String fecha = "2024-08-07";
         String hora = "08:30";
 
