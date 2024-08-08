@@ -13,6 +13,6 @@ Información sobre si el vehículo puede o no circular en el momento especificad
 Almacenamiento de Datos:<br>
 La información resultante de cada consulta debe ser almacenada en una base de datos SQL Server.
 <hr>
-<h2>Solucion</h2>
+<h2>Solución</h2>
 Para la construccion del codigo se utilizo Java, con conexion a SQL usando el patrón de diseño orientado a objeto MVC, se uso excepciones para el control de la conexion con la base de datos y sentencias de control para validar el ingreso de la placa.
 Tambien se implemento una estructura de datos que almacena las restricciones para cada día de la semana donde un objeto contiene la información sobre qué placas tienen restricción de circulación en ese día.
